@@ -1,17 +1,21 @@
 body {
   font: 20px Arial, serif;
 }
-.navbar {
-  background-color: rgb(29, 28, 28);
-}
 
-.navbar-brand {
-  color: aliceblue;
+.navbar {
+  background-color: rgb(102, 101, 101);
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .quem-somos {
-  background-color: rgb(89, 236, 192);
+  background-color: rgba(8, 8, 8, 0.829);
   color: white;
+  padding: 30px;
+}
+
+p {
+  padding-top: 30px;
 }
 
 .margin {
@@ -20,11 +24,19 @@ body {
 }
 
 .parceiros {
-  background-color: rgb(67, 236, 236);
+  background-color: rgba(204, 197, 197, 0.89);
+}
+
+.serviços {
+  background-color: rgb(2, 2, 1);
 }
 
 .bg-footer {
   background-color: black;
   color: white;
   padding: 30px;
+}
+
+#empresas-parceiras img {
+  padding-bottom: 60px;
 }
